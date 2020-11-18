@@ -1,4 +1,4 @@
-# BiKi Open API
+#  Open API
 
 简体中文 | [English](./README.us-en.md)
 
